@@ -6,6 +6,7 @@ In order for this to work, you must rename the directories in this script to mat
 mine are, 
 
 script
+
 d1="Kicks"
 d2="Snares"
 and so on.
