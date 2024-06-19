@@ -1,5 +1,7 @@
 # battery4-inspired-sfz-drum-generator
 create battery4 style sfz drum presets.
+This script will search with in specified directories, shuffle and pick 1 sample wav to your liking and create a drum preset mapped much like NI bat4.
+
 Place this script in the root directory containing your sample folders.
 IMPORTANT: directories as individual variables, are setup for my environment.
 In order for this to work, you must rename the directories in this script to match the forlders residing on same directory as script on your end.
