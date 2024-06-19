@@ -10,6 +10,7 @@ script
 d1="Kicks"
 
 d2="Snares"
+
 and so on.
 
 if your kicks folder is called "hard-kicks" then in script, rename d1="Kicks" to d1="hard kicks" and so forth.
