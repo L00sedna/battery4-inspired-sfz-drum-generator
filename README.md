@@ -4,7 +4,8 @@ Place this script in the root directory containing your sample folders.
 IMPORTANT: directories as individual variables, are setup for my environment.
 In order for this to work, you must rename the directories in this script to match the forlders residing on same directory as script on your end.
 mine are, 
-# script
+
+script
 d1="Kicks"
 d2="Snares"
 and so on.
