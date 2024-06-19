@@ -8,7 +8,9 @@ mine are,
 script
 
 d1="Kicks"
+
 d2="Snares"
+
 and so on.
 if your kicks folder is called "hard-kicks" then in script, rename d1="Kicks" to d1="hard kicks" and so forth.
 This script uses the dictionary that ships with debian 12 to generate a random word for naming presets. The words or names can be a bit unusual. Also presets will have a 3 digit # to prevent dups. A name like "Bat4-crumble-395.sfz" is what's to be expected.
