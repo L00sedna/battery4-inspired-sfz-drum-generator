@@ -2,7 +2,11 @@
 
 Create battery4 style sfz drum presets on linux using bash and the systems dictionary. This script will search with in specified directories, shuffle and pick 49 wav samples and create a drum preset mapped much like NI bat4 across a 49 key controller.
 
-Place this script in the root directory containing your sample folders. IMPORTANT: directories as individual variables are setup for my environment and only map 49 keys. Can be modified. In order for this to work, you must rename the directories in this script to match the forlders residing on same directory as script on your end. mine are,
+Place this script in the root directory containing your sample folders. 
+
+# IMPORTANT: 
+
+directories as individual variables are setup for my environment and only map 49 keys. Can be modified. In order for this to work, you must rename the directories in this script to match the forlders residing on same directory as script on your end. mine are,
 
 script
 
