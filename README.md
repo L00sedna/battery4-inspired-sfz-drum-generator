@@ -6,7 +6,7 @@ Place this script in the root directory containing your sample folders.
 
 # IMPORTANT: 
 
-directories as individual variables are setup for my environment and only map 49 keys. Can be modified. In order for this to work, you must rename the directories in this script to match the forlders residing on same directory as script on your end. mine are,
+directories as individual variables are setup for my environment and only map 49 keys. Can be modified. In order for this to work, you must rename the directories in this script to match the folders residing on same directory as script on your end. mine are,
 
 script
 
@@ -16,7 +16,7 @@ d2="Snares"
 
 and so on.
 
-if your kicks folder is called "hard-kicks" then in script, rename d1="Kicks" to d1="hard kicks" and so forth. This script uses the dictionary that ships with debian 12 to generate a random word for naming presets. The words or names can be a bit unusual. Also presets will have a 3 digit # to prevent dups. A name like "Bat4-crumble-395.sfz" is what's to be expected.
+if your kicks folder is called "hard-kicks" then in script, rename d1="Kicks" to d1="hard kicks" and so forth. This script uses the dictionary that ships with debian 12 to generate a random word for naming presets. The words or names can be a bit unusual. Also, presets will have a 3 digit # to prevent duplicates. A name like "Bat4-crumble-395.sfz" is what's to be expected.
 
 To personalize your sfz, open script in text editor and copy replace 
 
