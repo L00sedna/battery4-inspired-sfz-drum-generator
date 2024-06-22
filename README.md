@@ -32,3 +32,13 @@ preset name
 save
 
 quit
+
+# Usage
+
+mark as executable
+
+chmod +x ./bat4-style-sfz-drum-preset-generator.sh
+
+run from same directory containing sample pools
+
+./bat4-style-sfz-drum-preset-generator.sh
